@@ -1,6 +1,6 @@
 # UV sensor sketch
 
-An Arduino sketch to show readings from a UV sensor on an LCD shield.
+An Arduino sketch to show readings from a UV sensor on an LCD shield in mW/cm^2.
 
 ## Bill of materials
 
