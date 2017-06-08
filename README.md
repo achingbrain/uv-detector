@@ -8,7 +8,7 @@ An Arduino sketch to show readings from a UV sensor on an LCD shield.
 1. [LCD1602 LCD display](http://www.ebay.co.uk/itm/162511933623)
 1. [ML8511 UV sensor module](http://www.ebay.co.uk/itm/132170914771)
 
-## Connections
+## Connections
 
 Attach LCD shield to Arduino, then connect UV sensor module pins as follows:
 
